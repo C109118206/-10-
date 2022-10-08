@@ -11,7 +11,15 @@
 |3A|`組員`|C109118106|徐綜祥|伺服器、後端|
 
 ## 內容
-
+透過APP的引導，讓車禍發生後讓駕駛人有概念處理車禍事故<br>
+例如：
+- 車禍車損拍照引導
+- 保險專員分配與聯絡
+- 事故處理流程引導
+- 協助通報警方
+- 車禍事故地點分享至警方或急救人員
 
 ## 甘特圖與PERT/CPM圖
 
+![圖片](https://user-images.githubusercontent.com/50643639/194714092-38bc6380-e543-4ecc-ba2b-6f675f47e9b1.png) <br>
+[Source](https://hackmd.io/@RXiau6/H1RnaZyms)
