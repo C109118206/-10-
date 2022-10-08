@@ -21,5 +21,5 @@
 
 ## 甘特圖與PERT/CPM圖
 
-![圖片](https://user-images.githubusercontent.com/50643639/194714092-38bc6380-e543-4ecc-ba2b-6f675f47e9b1.png) <br>
+![圖片](/PERT_CPM.png) <br>
 [Source](https://hackmd.io/@RXiau6/H1RnaZyms)
