@@ -23,3 +23,22 @@
 
 ![圖片](/PERT_CPM.png) <br>
 [Source](https://hackmd.io/@RXiau6/H1RnaZyms)
+
+```mermaid
+gantt
+    title 甘特圖－車禍保險流程APP
+
+    section Section
+    團隊分工           :a1, 2022-10-08, 1d
+    需求分析     :a2,after a1  , 7d
+    競品分析     :a3,after a1  , 7d
+    基本功能確定 :a4, after a3,2d
+    系統架構設計:after a4,30d
+    使用者介面設計:after a4,30d
+    程式功能撰寫:after a4,30d
+    第一次測試: 7d
+    使用者體驗修正:21d
+    專題報告總結:7d
+    
+
+```
