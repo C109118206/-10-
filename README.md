@@ -26,7 +26,7 @@
 
 ```mermaid
 gantt
-    title 甘特圖－車禍保險流程APP
+    title 甘特圖－車禍流程保險APP
 
     section Section
     團隊分工           :a1, 2022-10-08, 1d
